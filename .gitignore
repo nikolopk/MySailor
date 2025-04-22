@@ -2,6 +2,7 @@
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+[Dd]ocs/
 *.log
 
 ## User-specific files
